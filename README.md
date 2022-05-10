@@ -4,7 +4,7 @@ Hi 👋 My name is Aquiles
 Software Engineer
 -----------------
 
-* 🌍  I'm based in São Paulo
+* 🌍  I'm based in São Paulo - Brazil
 * 🖥️  See my portfolio at [MY PORTFOLIO](http://aquileslopes.github.io)
 * 🧠  I'm learning Python for Data Science
 * 🤝  I'm open to collaborating on Ionic, React, JAVA, Spring Boot etc
